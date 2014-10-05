@@ -4,12 +4,12 @@
 	id        = "com.omtamil.demoapp"
 	versionCode="1"
 	version   = "1.0">
-<name>OMTAMIL DEMO APP</name>
+<name>poomagal</name>
 <description>
 A Demo App for Mobile Development Workshop</description>
-<author href="omtamil.com" 
-email="muhelen@omtamil.com">
-MUHELEN MURUGAN
+<author href="poomagal.com" 
+email="poomagal_83@yahoo.com">
+POOMAGAL CHANDRAN
 </author>
 	
 	<!-- Define app icon MAIN ROOT Platform. -->
